@@ -16,7 +16,7 @@
 from exporter import ScholarExporter
 
 # Example from user id:
-s = ScholarExporter.from_user('m9vHGcYAAAAJ')  # Geoffrey Hinton user
+s = ScholarExporter.from_user('BipOd_kAAAAJ')  # Alberto Donazzan user
 s.export('index.html')
 
 # Example from url:
